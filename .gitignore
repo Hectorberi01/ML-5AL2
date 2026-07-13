@@ -1,0 +1,15 @@
+# Données
+*.csv
+
+# Environnement Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+
